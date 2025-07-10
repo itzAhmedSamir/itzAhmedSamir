@@ -6,13 +6,11 @@
 
 ###
 
-<br clear="both">
-
-<h4 align="left">I'm a passionate software engineer with experience in building web applications and APIs using .NET technologies. I enjoy solving challenging problems and continuously explore new technologies to enhance my skill set and deliver impactful software.</h4>
+<img align="right" height="200" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/Right_Side.gif"  />
 
 ###
 
-<img align="right" height="170" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/Right_Side.gif"  />
+<h4 align="left">I'm a passionate software engineer with experience in building web applications and APIs using .NET technologies. I enjoy solving challenging problems and continuously explore new technologies to enhance my skill set and deliver impactful software.</h4>
 
 ###
 
@@ -75,6 +73,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/itzAhmedSamir/itzAhmedSamir/output/snake.svg" alt="Snake animation" />
 
 ###
