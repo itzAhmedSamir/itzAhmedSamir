@@ -2,15 +2,17 @@
 
 ###
 
-<h3 align="center">Software Engineer || .NET Developer || || Competitive Programmer || CS Student</h3>
+<h3 align="center">Software Engineer || .NET Developer || || Competitive Programmer</h3>
 
 ###
 
-<img align="right" height="210" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/Right_Side.gif"  />
-
-###
+<br clear="both">
 
 <h4 align="left">I'm a passionate software engineer with experience in building web applications and APIs using .NET technologies. I enjoy solving challenging problems and continuously explore new technologies to enhance my skill set and deliver impactful software.</h4>
+
+###
+
+<img align="right" height="170" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/Right_Side.gif"  />
 
 ###
 
@@ -20,10 +22,10 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/its-ahmed-samir" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="mailto:itzahmedsamir@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="35" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
 
@@ -73,6 +75,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/itzAhmedSamir/itzAhmedSamir/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" style="max-width: 100%;">
 
 ###
