@@ -2,11 +2,11 @@
 
 ###
 
-<h3 align="center">Software Engineer || .NET Developer || || Competitive Programmer</h3>
+<h3 align="center">Software Engineer || .NET Developer ||  Competitive Programmer</h3>
 
 ###
 
-<img align="right" height="200" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/Right_Side.gif"  />
+<img align="right" height="230" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/Right_Side.gif"  />
 
 ###
 
