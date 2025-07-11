@@ -71,6 +71,9 @@
 
 ###
 
+<img src="https://camo.githubusercontent.com/a532e787f617a8f1a790173aedc6e4a417e936811bd4a4cb065cc35e98a0e80a/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d612d68656d656461266c61796f75743d636f6d70616374266c616e67735f636f756e743d36267468656d653d68696768636f6e7472617374" height="120" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=a-hemeda&amp;layout=compact&amp;langs_count=6&amp;theme=highcontrast" style="max-width: 100%; height: auto; max-height: 120px;">
+
+<br>
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" style="max-width: 100%;">
 
