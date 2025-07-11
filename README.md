@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I am Ahmed Samir 👋</h2>
+<h1 align="center">Hi, I am Ahmed Samir 👋</h1>
 
 ###
 
@@ -6,15 +6,15 @@
 
 ###
 
-<img align="right" height="230" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/Right_Side.gif"  />
+<img align="right" height="200" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/Right_Side.gif"  />
 
 ###
 
-<h4 align="left">I'm a passionate software engineer with experience in building web applications and APIs using .NET technologies. I enjoy solving challenging problems and continuously explore new technologies to enhance my skill set and deliver impactful software.</h4>
+<h3 align="left">I'm a passionate software engineer with experience in building web applications and APIs using .NET technologies. I enjoy solving challenging problems and continuously explore new technologies to enhance my skill set and deliver impactful software.</h3>
 
 ###
 
-<h3 align="left">Connect with Me:</h3>
+<h4 align="left">Connect with Me:</h4>
 
 ###
 
@@ -73,6 +73,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/itzAhmedSamir/itzAhmedSamir/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" style="max-width: 100%;">
+
 
 ###
